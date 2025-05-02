@@ -13,13 +13,13 @@ Ever found yourself explaining the same project layout over and over to ChatGPT,
 This script saves you time by giving you a copy-paste-ready structure like this:
 
 ```
-
-|\_\_\_src
-\|   |\_\_\_main.py
-\|   |\_\_\_utils
-\|       |\_\_\_helper.py
-|\_\_\_tests
-|\_\_\_test\_main.py
+|___my-app
+    | |___src
+    | | |___main.py
+    | | |___utils
+    | | | |___helper.py
+    | |___tests
+    | | |___main.py
 
 ````
 
